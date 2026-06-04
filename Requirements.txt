@@ -1,5 +1,0 @@
-streamlit
-crewai
-groq
-litellm
-python-dotenv
